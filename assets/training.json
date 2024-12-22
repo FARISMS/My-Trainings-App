@@ -1,0 +1,58 @@
+{
+  "training": [
+    {
+      "name": "Training Program 1",
+      "date": "01-01-2024",
+      "startTime": "10:00:00",
+      "endTime": "12:10:00",
+      "venue": "Main Hall, Corporate building",
+      "trainer_name": "Jhon",
+      "trainer_image": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+    },
+    {
+      "name": "Training Program 2",
+      "date": "01-01-2024",
+      "startTime": "10:00:00",
+      "endTime": "12:10:00",
+      "venue": "Main Hall, Corporate building",
+      "trainer_name": "Jhon",
+      "trainer_image": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+    },
+    {
+      "name": "Training Program 3",
+      "date": "01-01-2024",
+      "startTime": "10:00:00",
+      "endTime": "12:10:00",
+      "venue": "Main Hall, Corporate building",
+      "trainer_name": "Jhon",
+      "trainer_image": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+    },
+    {
+      "name": "Training Program 1",
+      "date": "01-01-2024",
+      "startTime": "10:00:00",
+      "endTime": "12:10:00",
+      "venue": "Main Hall, Corporate building",
+      "trainer_name": "roy mathew",
+      "trainer_image": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+    },
+    {
+      "name": "Training Program 6",
+      "date": "01-01-2024",
+      "startTime": "10:00:00",
+      "endTime": "12:10:00",
+      "venue": "Main Hall, Corporate building",
+      "trainer_name": "roy mathew",
+      "trainer_image": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+    },
+    {
+      "name": "Training Program 7",
+      "date": "01-01-2024",
+      "startTime": "10:00:00",
+      "endTime": "12:10:00",
+      "venue": "Main Hall, Corporate building",
+      "trainer_name": "roy mathew",
+      "trainer_image": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+    }
+  ]
+}
